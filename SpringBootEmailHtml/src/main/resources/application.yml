@@ -1,0 +1,20 @@
+server:
+  port: 8080
+  
+spring:
+  mail:
+    username: spring.boot.programming@gmail.com
+    host: smtp.gmail.com
+    port: 587
+    password: jbor ygvp cvvn buck 
+    properties:
+      mail:
+        transport:
+          protocol: smtp          
+        smtp:
+          auth: true
+          starttls:
+            required: true
+            enable: true
+        debug: true
+         
