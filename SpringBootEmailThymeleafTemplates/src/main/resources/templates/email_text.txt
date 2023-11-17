@@ -1,0 +1,7 @@
+Hello [( ${username} )],
+
+
+You have been successfully subscribed to the YouTube channel.
+
+Regards,
+    Spring Boot Tutorial
